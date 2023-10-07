@@ -7,11 +7,3 @@ function partners() {
 }
 
 partners();
-
-$(document).ready(function () {
-    $('td').click(
-        function () {
-            $(this).css({ "background-color": "red" });
-        }
-    )
-});

@@ -256,6 +256,7 @@ td {
     height: 75px;
     vertical-align: middle;
     border: solid 1px #852B1B;
+    color: black;
 }
 
 th:first-child {
